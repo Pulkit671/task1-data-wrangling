@@ -1,3 +1,10 @@
+## 📁 Repository Structure
+
+- cleaning.py → Python script for data cleaning
+- Customer Purchase Data.csv → Original dataset
+- cleaned_data.csv → Final cleaned dataset
+- data_dictionary.txt → Explanation of features
+  
 # Task 1: Data Immersion & Wrangling
 
 ## 📌 Objective
@@ -65,6 +72,9 @@ The following new features were created:
 - Google Colab
 
 ---
+## 🔎 Key Insight
+
+Customers with higher purchase frequency and higher last purchase amounts contribute significantly to overall customer value.
 
 ## ✅ Conclusion
 
