@@ -1,3 +1,6 @@
+# 📊 Data Analytics Internship – Task 1
+
+## Task 1: Data Immersion & Wrangling
 ## 📁 Repository Structure
 
 - cleaning.py → Python script for data cleaning
@@ -79,3 +82,11 @@ Customers with higher purchase frequency and higher last purchase amounts contri
 ## ✅ Conclusion
 
 The dataset was already well-structured with no missing or duplicate values. Key preprocessing steps included removing irrelevant columns and creating new features to enhance analytical capability. The final dataset is clean, structured, and ready for further analysis.
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Install required libraries:
+   pip install pandas
+3. Run the script:
+   python cleaning.py
