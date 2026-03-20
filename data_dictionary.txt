@@ -1,0 +1,10 @@
+DATA DICTIONARY
+
+Age: Age of customer (integer)
+Income: Annual income of customer (float)
+Spending_Score: Score assigned based on spending behavior (float)
+Membership_Years: Number of years customer is a member (integer)
+Purchase_Frequency: Frequency of purchases (float)
+Last_Purchase_Amount: Amount spent in last purchase (float)
+Customer_Value: Derived feature (Purchase_Frequency × Last_Purchase_Amount)
+Age_Group: Categorized age (Young, Adult, Senior)
