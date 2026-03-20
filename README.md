@@ -7,7 +7,17 @@
 - Customer Purchase Data.csv → Original dataset
 - cleaned_data.csv → Final cleaned dataset
 - data_dictionary.txt → Explanation of features
-  
+
+## 🛠 Key Steps Performed
+
+- Checked for missing values and duplicates
+- Verified data types and dataset consistency
+- Removed unnecessary identifier column (`Number`)
+- Performed feature engineering:
+  - Created `Customer_Value`
+  - Categorized customers into `Age_Group`
+- Exported cleaned dataset for further analysis
+    
 # Task 1: Data Immersion & Wrangling
 
 ## 📌 Objective
